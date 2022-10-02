@@ -12,6 +12,19 @@ Desenvolver um chatbot seguindo o fluxo conversacional com os seguintes parametr
 - [x] Criação do chatbot (dentro da pasta "Flow").
 - [x] Criação da API (dentro da pasta "API")
 
+## ⚙ API publicada em Cloud Application Platform
+
+Selecione no icone ou copiando a URL:
+
+<div> 
+  <a href="https://lora-bot.herokuapp.com/repositories" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+  
+</div>
+
+ou
+
+`https://lora-bot.herokuapp.com/repositories`
+
 ## 💻 Linguagem escolhida: 
 
 * `<Javascript>`
