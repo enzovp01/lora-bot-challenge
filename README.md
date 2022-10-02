@@ -4,7 +4,7 @@
 
 <a href="https://www.take.net"><img src="https://lh3.googleusercontent.com/Q7Gypg7GyRmPn1z8_cQOYIDOC1VyqjBdaMQFP1tukOlRu2Qde7o9NYpif3N4GsCC8dax1h4t9erOi_M6yflmcRS8BiHkIH4YKeNNb6TKwqeAFLsbmcDCL2AKx6zuherYhQ" alt="Image" height="250" width="500"></a>
 
-> Empresa Take Blip
+> 🔼Conheça um pouco mais a Take Blip (selecione o banner acima)🔼
 ### Prova-Advocate
 
 Desenvolver um chatbot seguindo o fluxo conversacional com os seguintes parametros:
